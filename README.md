@@ -1,4 +1,5 @@
 # Twitter-Text-Sentiment-Classification
+![image](https://github.com/tramngo06/Twitter-Text-Sentiment-Classification/assets/139295222/471ce4b0-2521-4f2f-8a3d-29a573c03546)
 
 ## Overview
 #### This project purpose is using the trained model on Hugging Face to train a new dataset of texts on Twitter, and classifying them into positive, negative, or neural text. The **dataset** and **model** are used and downloaded from HuggingFace. HuggingFace is a website where it contained the pretrained model to train the new dataset. 
